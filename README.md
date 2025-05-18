@@ -2,7 +2,7 @@
 A public repository for users to post their custom Nexus styles &amp; colours.
 
 ## Changing style
-Download the `<style>.imstyle180` you would like to use and place in `<GW2>/addons/Nexus/Styles`.
+Download the `<style>.imstyle180` you would like to use and place in `<GW2>/addons/Nexus/Styles`. You can then select it from the Presets dropdown.
 
 OR
 
