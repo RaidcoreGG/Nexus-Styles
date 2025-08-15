@@ -25,3 +25,8 @@ Font: [Exo SemiBold](https://fonts.google.com/specimen/Exo)
 ---
 Style: [Half Life 1 / Steam](/HL1.imstyle180)
 ![image](https://github.com/user-attachments/assets/13364356-aff5-499f-b2a5-e5725a0dfc9b)
+
+---
+Style: [Catppuccin Macchiato - Teal Accent](/Catppuccin-Macchiato-Teal.imstyle180)
+Font: [Jost](https://fonts.google.com/specimen/Jost)
+![image](https://github.com/user-attachments/assets/0385fd33-7df8-4cd0-b449-1a7f5af7bb6f)
